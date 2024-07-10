@@ -14,7 +14,7 @@ class login_page:
         # Set the window size
         # Here 0,0 represents the starting point of the window 
         self.root.geometry("1280x800+0+0")
-        self.root.config(bg = "black")
+        self.root.config(bg = "white")
 
 
         #DESIGN PART
