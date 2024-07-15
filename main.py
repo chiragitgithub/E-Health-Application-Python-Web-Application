@@ -8,7 +8,7 @@ import credentials as cr
 import os
 
 class Management:
-    def __init__(self, ):
+    def __init__(self,root):
         self.root = root
         self.root.title("Patient Details")
         self.root.geometry("780x480")
