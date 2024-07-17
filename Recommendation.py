@@ -1,4 +1,4 @@
-from cgitb import 
+from cgitb import text
 from email.mime import image
 from msilib.schema import Font
 from tkinter import *
